@@ -4,10 +4,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class GreaterOrLesserTest {
-    public GreaterOrLesser gol;
+    public Lab gol;
     @Before
     public void setUp(){
-        gol = new GreaterOrLesser();
+        gol = new Lab();
     }
 
     /**
